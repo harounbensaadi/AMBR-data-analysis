@@ -26,13 +26,18 @@ The outcome included the generation of **over 350 plots**, including:
 - Summary plots illustrating the impact of Fe and Zn quantity in the medium on the accumulation of each trace metal ion.
 
 #### Pending papers:
-“Comprehensive Metal Ion Analysis in High-Density E. coli Fermentation Processes” (Under Review)
-    Authors: Dr. Suresh Sudarsan, Haroun Bensaadi, et al. 
-    Projected publication date: June-July 2024
 
-“Web-based Tool for Optimizing Metal Ion Requirements in Microbial Cultures” (In Preparation)
-   Authors: Haroun Bensaadi, Dr. Suresh Sudarsan
-   Projected publication date: May-June 2024
+**“Comprehensive Metal Ion Analysis in High-Density E. coli Fermentation Processes” (Under Review)**
+
+Authors: Dr. Suresh Sudarsan, Haroun Bensaadi, et al. 
+
+Projected publication date: June-July 2024
+
+**“Web-based Tool for Optimizing Metal Ion Requirements in Microbial Cultures” (In Preparation)**
+
+Authors: Haroun Bensaadi, Dr. Suresh Sudarsan
+
+Projected publication date: May-June 2024
 
 ### Overview of some of the generated figures:
 ![alt text](#/ambr_data_138_R01-02-03-1.png)
