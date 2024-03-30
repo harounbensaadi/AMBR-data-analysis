@@ -40,7 +40,6 @@ The outcome included the generation of **over 350 plots**, including:
 ![alt text](subplot_rates_138_R01-02-03.png)
 ![alt text](subplot_yields_138_R01-02-03.png)
 ![alt text](MB_main_C_138_R01.png)
-![alt text](MB_main_C_138_R01-1.png)
 ![alt text](elemental_growth_yield_Fe_138_R01-02-03.png)
 ![alt text](measured_elemental_growth_yield_against_reference_values_horizontal.png)
 ![alt text](yield_slopes_µg_per_g_Cu_138_R04-05-06.png)
