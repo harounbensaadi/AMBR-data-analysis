@@ -6,10 +6,7 @@ Author:
 
 **Version: 23.01.2024**
 
-
 ![alt text](image.png)
-
-   August  2023 - December 2023
 
 The repository represent parallel fermentations of high-density E. coli strains leveraging the state-of-the-art Ambr 250 high throughput bioreactor system conducted at the Pre-Pilot Plant (PPP) core unit at DTU Biosustain. 
 
@@ -36,3 +33,21 @@ The outcome included the generation of **over 350 plots**, including:
 “Web-based Tool for Optimizing Metal Ion Requirements in Microbial Cultures” (In Preparation)
    Authors: Haroun Bensaadi, Dr. Suresh Sudarsan
    Projected publication date: May-June 2024
+
+### Overview of some of the generated figures:
+![alt text](ambr_data_138_R01-02-03.png)
+![alt text](mass_plot_138_R01-02-03.png)
+![alt text](subplot_rates_138_R01-02-03.png)
+![alt text](subplot_yields_138_R01-02-03.png)
+![alt text](MB_main_C_138_R01.png)
+![alt text](MB_main_C_138_R01-1.png)
+![alt text](elemental_growth_yield_Fe_138_R01-02-03.png)
+![alt text](measured_elemental_growth_yield_against_reference_values_horizontal.png)
+![alt text](yield_slopes_µg_per_g_Cu_138_R04-05-06.png)
+![alt text](#_yields_µg_per_g_bar_plot_subplot.png)
+![alt text](#_yields_per_strain_and_medium_types_subplot_per_element.png)
+![alt text](#_yields_per_strain_and_medium_types_subplot_all_elements.png)
+![alt text](#_yields_per_strain_type_subplot_per_element.png)
+![alt text](#_yields_per_strain_type_subplot_all_elements.png)
+![alt text](calculated_yields_horizontal.png)
+![alt text](change_in_yield_heatmap.png)
