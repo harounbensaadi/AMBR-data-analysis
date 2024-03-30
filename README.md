@@ -6,7 +6,7 @@ Author:
 
 **Version: 23.01.2024**
 
-![alt text](image.png)
+![alt text](README_images/image.png)
 
 The repository represent parallel fermentations of high-density E. coli strains leveraging the state-of-the-art Ambr 250 high throughput bioreactor system conducted at the Pre-Pilot Plant (PPP) core unit at DTU Biosustain. 
 
